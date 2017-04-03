@@ -1,13 +1,11 @@
 {
-  "extends": "airbnb",
+  "extends": "airbnb-base",
   "parser": "babel-eslint",
   "env": {
     "browser": true,
     "node": true
   },
   "plugins": [
-    "react",
-    "jsx-a11y",
     "import"
   ],
   "rules": {
